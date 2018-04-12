@@ -20,6 +20,7 @@ def current_player(board) turn_count(board) % 2 == 0"X": "O"
   #else
     #"O"
   end
+  end
 end
 
 #helper_method
